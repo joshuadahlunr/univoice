@@ -1,5 +1,7 @@
 # UniVoice
 UniVoice is a voice chat/VoIP solution for Unity.
+
+Note: This `redev` branch is stale. I've only kept this because it contains the commits related to a major refactor/rewrite from May 2021.
   
 It comes with ready-to-use P2P (peer to peer) conenctivity which allows devices to communicate nearly free of cost*. For the underlying P2P solution, please visit [AirPeer](https://www.github.com/adrenak/airpeer)  
 
